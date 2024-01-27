@@ -1,0 +1,14 @@
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\bin\Debug\net8.0\gcdc.exe
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\bin\Debug\net8.0\gcdc.deps.json
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\bin\Debug\net8.0\gcdc.runtimeconfig.json
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\bin\Debug\net8.0\gcdc.dll
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\bin\Debug\net8.0\gcdc.pdb
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.AssemblyInfoInputs.cache
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.AssemblyInfo.cs
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.csproj.CoreCompileInputs.cache
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.dll
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\refint\gcdc.dll
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.pdb
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\gcdc.genruntimeconfig.cache
+D:\Aspire\C#\Trainee Tasks\Dotnet\gcdc\obj\Debug\net8.0\ref\gcdc.dll
